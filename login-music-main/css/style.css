@@ -31,8 +31,7 @@ body {
 }
 
 .info-center {
-    text-align: center;
-    margin-right: 70em;
+    margin-left: 100px;
     margin-top: 90px;
 }
 
@@ -57,16 +56,4 @@ body {
     text-align: center;
     text-decoration: none;
     color: black;
-
-}
-
-
-.check { 
-    width: 77px ;
-    
-
-} 
-.infocenter2{
-    display: flex;
-    margin-top: 100px;
 }
